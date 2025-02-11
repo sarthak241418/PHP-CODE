@@ -11,7 +11,7 @@ echo "<br>";
 $d = 0123;
 var_dump($d);
 echo "<br>";
-echo "Program by Diya Bhutani(2220100243)";
+echo "SARTHAK NARAYAN 0221BCA107";
 ?>
 
 
