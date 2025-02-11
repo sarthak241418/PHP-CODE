@@ -6,5 +6,5 @@ echo $b;
 $a = "Hello world!<br>";
 $c="Stay here, I'll be back<br>";
 echo $c;
-echo "Program by Diya Bhutani(2220100243)";
+echo "Program by "SARTHAK NARAYAN 0221BCA107";
 ?>
