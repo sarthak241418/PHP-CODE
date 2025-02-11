@@ -23,6 +23,6 @@
     echo "<br>";
     echo "y" <=> "x"; // Outputs: 1
 echo "<br>";
-echo "Program by Diya Bhutani(2220100243)";
+echo "Program by SARTHAK NARAYAN 0221BCA107";
     
 ?>
