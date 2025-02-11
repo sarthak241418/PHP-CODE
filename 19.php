@@ -7,7 +7,7 @@
     	echo "Out of $a and $b, $a is smaller.." ;
     }
 echo "<br>";
-echo "Program by Diya Bhutani(2220100243)";
+echo "Program by SARTHAK NARAYAN 0221BCA107";
 
 
 ?>
