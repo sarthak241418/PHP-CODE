@@ -10,5 +10,5 @@
 	selfMultiply($mynum);
 	echo "Number after multiplication: " . $mynum;
 	echo "<br><br>";
-	echo "Code executed by Manshay(0221BCA106)";
+	echo "Code executed by sarthak narayan 0221bca107";
 ?>
