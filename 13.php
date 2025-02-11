@@ -20,7 +20,7 @@ echo "<br>";
 echo "<br>";
     var_dump($x >= $y);  // Outputs: boolean false
 echo "<br>";
-echo "Program by Diya Bhutani(2220100243)";
+echo "Program by SARTHAK NARAYAN 0221BCA107";
 
 
 ?>
